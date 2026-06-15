@@ -39,6 +39,14 @@ Git
 
 UI System
 
+## Видео игрового процесса
+
+[Ссылка на видео](https://drive.google.com/file/d/1uOqslBB0ToxYcOuHR4R2Mtr8Rmx0tH01/view?usp=sharing)
+
+## Билд
+
+[Скачать последнюю версию](https://github.com/darsidaff/Ether/releases/tag/V1)
+
 ## Скриншоты
 
 <img src="Screenshots/Рисунок2.png" width="400"> <img src="Screenshots/Рисунок4.png" width="440">
@@ -46,11 +54,3 @@ UI System
 <img src="Screenshots/Рисунок12.png" width="400"> <img src="Screenshots/Рисунок1.png" width="440">
 <img src="Screenshots/Рисунок10.png" width="400"> <img src="Screenshots/Рисунок8.png" width="440">
 <img src="Screenshots/Рисунок9.png" width="850">
-
-## Видео игрового процесса
-
-[Ссылка на видео](https://drive.google.com/file/d/1uOqslBB0ToxYcOuHR4R2Mtr8Rmx0tH01/view?usp=sharing)
-
-## Скачать билд
-
-[Скачать последнюю версию](https://github.com/darsidaff/Ether/releases/tag/V1)
