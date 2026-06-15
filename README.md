@@ -33,7 +33,8 @@ UI System
 
 ## Видео игрового процесса
 
-https://drive.google.com/file/d/1uOqslBB0ToxYcOuHR4R2Mtr8Rmx0tH01/view?usp=sharing
+[Ссылка на видео](https://drive.google.com/file/d/1uOqslBB0ToxYcOuHR4R2Mtr8Rmx0tH01/view?usp=sharing)
 
 ## Скачать билд
 
+[Скачать последнюю версию](https://github.com/darsidaff/Ether/releases/tag/V1)
