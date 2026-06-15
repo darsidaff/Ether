@@ -21,6 +21,7 @@
 тестирование и исправление ошибок.
 
 ## Технологии
+
 Unity
 C#
 Visual Studio
@@ -29,7 +30,11 @@ UI System
 
 ## Скриншоты
 
-
+<img src="Screenshots/Рисунок2.png" width="400"> <img src="Screenshots/Рисунок4.png" width="440">
+<img src="Screenshots/Рисунок7.png" width="400"> <img src="Screenshots/Рисунок11.png" width="440">
+<img src="Screenshots/Рисунок12.png" width="400"> <img src="Screenshots/Рисунок1.png" width="440">
+<img src="Screenshots/Рисунок10.png" width="400"> <img src="Screenshots/Рисунок8.png" width="440">
+<img src="Screenshots/Рисунок9.png" width="850">
 
 ## Видео игрового процесса
 
